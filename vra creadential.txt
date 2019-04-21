@@ -1,0 +1,27 @@
+Todays task:
+1. OpenVPN setup and configuration
+2. Access vRA/vRO setup
+
+==============================================================================
+vRA details :
+
+url to access -> https://vra5.idmlab.com/SAAS/t/VSPHERE.LOCAL
+username/password: vraadmin/gsLab!23
+
+host file entry :(C:\Windows\System32\drivers\etc\hosts) ->
+
+10.136.48.139 vra5.idmlab.com  vra5
+10.136.48.140  vra5iaas.idmlab.com
+
+    
+Expectation: at least go through all vRA tabs and there use. 
+===============================================================================
+vRO details:
+
+download client and run it : https://vra5.idmlab.com/vco/client/client.jnlp
+
+hostname : vra5.idmlab.com:443
+username : vraadmin
+password : gsLab!23
+
+Expectation : for vRO install vRO client and try to explore it
